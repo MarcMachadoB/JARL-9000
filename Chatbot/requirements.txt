@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+scikit-learn==0.24.2
+nltk==3.6.2
+pyqt5==5.15.4

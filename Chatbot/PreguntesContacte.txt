@@ -1,0 +1,33 @@
+11. Quin és l’horari d’atenció al públic de Secretaria?
+És de 10 a 13 hores
+12. Quin és l’horari d’atenció telefònica de Secretaria?
+És de 12 a 14 hores
+13. Quin és el número de telèfon del centre?
+977212836
+14. Quin és el correu d’atenció de consultes de preinscripció?
+secretaria@vidalibarraquer.net
+15. Quin és el correu d’atenció de consultes de matrícula?
+matricula@vidalibarraquer.net
+49. On puc trobar tota la informació de preinscripció i matrícula? 
+https://preinscripcio.gencat.cat/ca/inici/
+52. Quins estudis es porten a terme en el centre?
+Podeu trovar la información en aquesta página: https://www.vidalibarraquer.net/index.php/ofertaformativa/oferta-formativa
+53. On puc trobar els horaris dels estudis del centre?
+Podeu trovar la información en aquesta página: https://www.vidalibarraquer.net/index.php/ofertaformativa/oferta-formativa
+54. Com puc demanar un certificat d’estudis?
+Podeu demanar certificats per eSecretaria: https://www.vidalibarraquer.net/sv/
+55. Com puc demanar convalidacions?
+Podeu demanar convalidacions per eSecretaria: https://www.vidalibarraquer.net/sv/
+56. On puc trobar informació de Beques?
+Podeu trobar informació en la següent pàgina: https://www.vidalibarraquer.net/index.php/secretaria1/beques
+57. On puc trobar el calendari escolar?
+https://www.vidalibarraquer.net/index.php/alumnat/calendari-escolar
+58. El centre disposa de borsa de treball?
+Sí, en la següent pàgina podreu trobar la informació: https://www.vidalibarraquer.net/borsatreball/
+59. On puc trobar informació de l’FCT?
+https://www.vidalibarraquer.net/index.php/alumnat/fct
+60. On puc trobar l’horari de secretaria?
+https://www.vidalibarraquer.net/index.php/secretaria1/horari-de-secretaria
+61. On puc trobar l’afinitat entre famílies professionals?
+https://triaeducativa.gencat.cat/ca/fp/afinitat-families-professionals/
+
