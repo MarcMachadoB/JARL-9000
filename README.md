@@ -34,3 +34,6 @@ El chatbot está preparado para manejar información de varios idiomas y devuelv
 3. Lanzar el chatbot para introducir preguntas y obtener respuestas.
 
 Este proyecto sirve como base para un asistente de atención al alumnado o consulta institucional basado en preguntas frecuentes.
+
+## Enlace a la máquina virtual (Ubuntu)
+https://drive.google.com/file/d/1dRHUhdlaJQ5AcDLDKLV-3G0lVRrqRM_8/view?usp=drive_link
